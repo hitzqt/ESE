@@ -1,0 +1,345 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun May 15 20:53:49 2016
+\t (00:00:00)         Host=DESKTOP-Q3ILPGQ User=zhang Pid=4380 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd
+\i (00:00:02) trapsize 16114
+\i (00:00:02) trapsize 15668
+\i (00:00:02) trapsize 16190
+\i (00:00:02) trapsize 13117
+\i (00:00:02) trapsize 22403
+\i (00:00:02) generaledit 
+\i (00:00:07) place manual 
+\i (00:00:09) setwindow form.plc_manual
+\i (00:00:09) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\w (00:00:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:09) Placing C1 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:09) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) pick grid 17295.32 17160.90
+\t (00:00:11) last pick:  17300.00  17200.00
+\t (00:00:11) Placing C2 / C_CAPACITOR_10NF / CAPACITOR on Top.
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 18191.45 16533.61
+\i (00:00:13) trapsize 11202
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 14061.10 16533.61
+\i (00:00:13) trapsize 5601
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 14061.10 16533.61
+\i (00:00:13) trapsize 2800
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 17281.57 17071.29
+\i (00:00:14) trapsize 1400
+\i (00:00:15) roam start
+\i (00:00:15) roam x 48
+\i (00:00:15) roam x 32
+\i (00:00:15) roam x 32
+\i (00:00:15) roam x 32
+\i (00:00:16) roam x 32
+\i (00:00:16) roam y -16
+\i (00:00:16) roam y -16
+\i (00:00:16) roam x -16
+\i (00:00:16) roam x -16
+\i (00:00:16) roam y -16
+\i (00:00:16) roam x -16
+\i (00:00:16) roam y -16
+\i (00:00:16) roam x -16
+\i (00:00:16) roam y -16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam end
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17608.97 17146.90
+\i (00:00:17) trapsize 700
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17608.97 17146.90
+\i (00:00:17) trapsize 350
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17608.97 17146.90
+\i (00:00:17) trapsize 175
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17578.86 17140.95
+\i (00:00:18) trapsize 350
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17576.76 17140.25
+\i (00:00:18) trapsize 700
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 17575.36 17140.26
+\i (00:00:18) trapsize 1400
+\i (00:00:20) roam start
+\i (00:00:20) roam x 32
+\i (00:00:21) roam x 32
+\i (00:00:21) roam y -32
+\i (00:00:21) roam x 16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 48
+\i (00:00:22) roam x 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x 16
+\i (00:00:23) roam x 32
+\i (00:00:23) roam x 16
+\i (00:00:23) roam x 16
+\i (00:00:23) roam x 16
+\i (00:00:24) roam end
+\i (00:00:25) pick grid 17449.34 17228.11
+\t (00:00:25) last pick:  17400.00  17200.00
+\t (00:00:25) Placing C3 / C_CAPACITOR_10UF / CAPACITOR on Top.
+\i (00:00:26) pick grid 17544.56 17214.11
+\t (00:00:26) last pick:  17500.00  17200.00
+\t (00:00:26) Placing C4 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:27) pick grid 17648.17 17219.71
+\t (00:00:27) last pick:  17600.00  17200.00
+\t (00:00:27) Placing C5 / C_CAPACITOR_4.7UF / CAPACITOR on Top.
+\i (00:00:28) pick grid 17748.99 17222.51
+\t (00:00:28) last pick:  17700.00  17200.00
+\t (00:00:28) Placing C6 / C_CAPACITOR_4.3PF / CAPACITOR on Top.
+\i (00:00:30) pick grid 17847.00 17222.51
+\t (00:00:30) last pick:  17800.00  17200.00
+\t (00:00:30) Placing C7 / C_CAPACITOR_4.3PF / CAPACITOR on Top.
+\i (00:00:31) pick grid 17858.20 17228.11
+\t (00:00:31) last pick:  17900.00  17200.00
+\t (00:00:31) Placing C8 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:32) pick grid 18048.63 17228.11
+\t (00:00:32) last pick:  18000.00  17200.00
+\t (00:00:32) Placing C9 / C_CAPACITOR_2.2UF / CAPACITOR on Top.
+\i (00:00:33) pick grid 18054.23 17225.31
+\t (00:00:33) last pick:  18100.00  17200.00
+\t (00:00:33) Placing C10 / C_CAPACITOR_2.2UF / CAPACITOR on Top.
+\i (00:00:35) pick grid 18247.46 17194.51
+\t (00:00:35) last pick:  18200.00  17200.00
+\t (00:00:35) Placing C11 / C_CAPACITOR_20PF / CAPACITOR on Top.
+\i (00:00:38) pick grid 18233.46 17051.69
+\t (00:00:38) last pick:  18200.00  17100.00
+\t (00:00:38) Placing C12 / C_CAPACITOR_20PF / CAPACITOR on Top.
+\i (00:00:39) pick grid 18051.43 17130.10
+\t (00:00:39) last pick:  18100.00  17100.00
+\t (00:00:39) Placing C13 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:40) pick grid 18048.63 17121.70
+\t (00:00:40) last pick:  18000.00  17100.00
+\t (00:00:40) Placing C14 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:41) pick grid 17947.82 17102.09
+\t (00:00:41) last pick:  17900.00  17100.00
+\t (00:00:41) Placing C15 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:42) pick grid 17849.80 17107.69
+\t (00:00:42) last pick:  17800.00  17100.00
+\t (00:00:42) Placing C16 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:42) pick grid 17748.99 17121.70
+\t (00:00:42) last pick:  17700.00  17100.00
+\t (00:00:42) Placing C17 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:43) pick grid 17648.17 17107.69
+\t (00:00:43) last pick:  17600.00  17100.00
+\t (00:00:43) Placing C18 / C_CAPACITOR_1UF_X5R_0603 / CAPACITOR on Top.
+\i (00:00:44) pick grid 17547.36 17104.89
+\t (00:00:44) last pick:  17500.00  17100.00
+\t (00:00:44) Placing C19 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:44) pick grid 17449.34 17113.29
+\t (00:00:44) last pick:  17400.00  17100.00
+\t (00:00:44) Placing C20 / C_CAPACITOR_20PF / CAPACITOR on Top.
+\i (00:00:45) pick grid 17348.53 17113.29
+\t (00:00:45) last pick:  17300.00  17100.00
+\t (00:00:45) Placing C21 / C_CAPACITOR_10UF / CAPACITOR on Top.
+\i (00:00:47) pick grid 17348.53 16449.60
+\t (00:00:47) last pick:  17300.00  16400.00
+\t (00:00:47) Placing C22 / C_CAPACITOR_10UF / CAPACITOR on Top.
+\i (00:00:48) pick grid 17354.13 16432.80
+\t (00:00:48) last pick:  17400.00  16400.00
+\t (00:00:48) Placing C23 / C_CAPACITOR_10UF / CAPACITOR on Top.
+\i (00:00:49) pick grid 17452.14 16413.19
+\t (00:00:49) last pick:  17500.00  16400.00
+\t (00:00:49) Placing C24 / C_CAPACITOR_1UF / CAPACITOR on Top.
+\i (00:00:50) pick grid 17550.16 16407.59
+\t (00:00:50) last pick:  17600.00  16400.00
+\t (00:00:50) Placing C25 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:51) pick grid 17748.99 16415.99
+\t (00:00:51) last pick:  17700.00  16400.00
+\t (00:00:51) Placing C26 / C_CAPACITOR_1UF / CAPACITOR on Top.
+\i (00:00:52) pick grid 17754.59 16404.79
+\t (00:00:52) last pick:  17800.00  16400.00
+\t (00:00:52) Placing C27 / C_CAPACITOR_100NF / CAPACITOR on Top.
+\i (00:00:53) pick grid 17947.82 16404.79
+\t (00:00:53) last pick:  17900.00  16400.00
+\t (00:00:54) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:00:59) pick grid 18034.63 16404.79
+\t (00:00:59) last pick:  18000.00  16400.00
+\e (00:00:59) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:00:59) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\t (00:00:59) Placing J1 / CON2_JUMPER2_BATTERIES / JUMPER2 on Top.
+\i (00:01:07) pick grid 16990.08 17152.50
+\t (00:01:07) last pick:  17000.00  17200.00
+\w (00:01:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:07) Placing L1 / L_INDUCTOR_10UH / INDUCTOR on Top.
+\i (00:01:16) pick grid 17127.30 16449.60
+\t (00:01:16) last pick:  17100.00  16400.00
+\w (00:01:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:16) Placing R1 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:20) pick grid 16749.24 17015.28
+\t (00:01:20) last pick:  16700.00  17000.00
+\t (00:01:20) Placing R2 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:21) pick grid 16752.04 17015.28
+\t (00:01:21) last pick:  16800.00  17000.00
+\t (00:01:21) Placing R3 / R_RESISTANCE_10K / RESISTANCE on Top.
+\i (00:01:22) pick grid 16850.06 17012.48
+\t (00:01:22) last pick:  16900.00  17000.00
+\t (00:01:22) Placing R4 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:25) pick grid 18348.28 17082.49
+\t (00:01:25) last pick:  18300.00  17100.00
+\t (00:01:25) Placing R5 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:30) pick grid 17351.33 16976.07
+\t (00:01:30) last pick:  17400.00  17000.00
+\t (00:01:30) Placing R6 / R_RESISTANCE_4.7K / RESISTANCE on Top.
+\i (00:01:32) pick grid 18031.83 16449.60
+\t (00:01:32) last pick:  18000.00  16400.00
+\t (00:01:32) Placing R7 / R_RESISTANCE_100 / RESISTANCE on Top.
+\i (00:01:36) pick grid 18149.45 16390.79
+\t (00:01:36) last pick:  18100.00  16400.00
+\t (00:01:36) Placing R8 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:40) pick grid 18009.43 16348.78
+\t (00:01:40) last pick:  18000.00  16300.00
+\t (00:01:40) Placing R9 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:43) pick grid 18051.43 16301.18
+\t (00:01:43) last pick:  18100.00  16300.00
+\t (00:01:43) Placing R10 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:45) pick grid 18247.46 16295.57
+\t (00:01:45) last pick:  18200.00  16300.00
+\t (00:01:45) Placing R11 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:01:49) pick grid 18247.46 16410.39
+\t (00:01:49) last pick:  18200.00  16400.00
+\t (00:01:49) Placing R12 / R_RESISTANCE_330 / RESISTANCE on Top.
+\i (00:01:52) pick grid 18325.87 16348.78
+\t (00:01:52) last pick:  18300.00  16300.00
+\t (00:01:52) Placing R13 / R_RESISTANCE_2K / RESISTANCE on Top.
+\i (00:01:55) pick grid 17852.60 16267.57
+\t (00:01:55) last pick:  17900.00  16300.00
+\t (00:01:55) Placing R14 / R_RESISTANCE_120 / RESISTANCE on Top.
+\i (00:01:59) pick grid 17748.99 16287.17
+\t (00:01:59) last pick:  17700.00  16300.00
+\t (00:01:59) Placing R15 / R_RESISTANCE_1K / RESISTANCE on Top.
+\i (00:02:02) pick grid 17550.16 16270.37
+\t (00:02:02) last pick:  17600.00  16300.00
+\e (00:02:02) Cannot load symbol 'SFSWITCH'
+\i (00:02:05) pick grid 18617.11 16833.25
+\t (00:02:05) last pick:  18600.00  16800.00
+\e (00:02:05) Cannot load symbol 'SFSWITCH'
+\i (00:02:06) pick grid 16962.07 16844.46
+\t (00:02:06) last pick:  17000.00  16800.00
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:06) Placing U1 / MCU_LQFP64_LQFP64_MUC_LQFP64 / LQFP64 on Top.
+\i (00:02:09) pick grid 17424.14 16945.27
+\t (00:02:09) last pick:  17400.00  16900.00
+\w (00:02:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:09) Placing U2 / HTS221_HTS221_HTS221 / HTS221 on Top.
+\i (00:02:21) pick grid 17959.02 16950.87
+\t (00:02:21) last pick:  18000.00  17000.00
+\w (00:02:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:21) Placing U3 / LSM6DS0_LSM6DS0_LSM6DS0 / LSM6DS0 on Top.
+\i (00:02:29) pick grid 17950.62 16483.20
+\t (00:02:29) last pick:  18000.00  16500.00
+\w (00:02:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:29) Placing U4 / WH1602B2_WH1602B2_WH1602B2 / WH1602B2 on Top.
+\i (00:02:35) pick grid 18449.09 17169.30
+\t (00:02:35) last pick:  18400.00  17200.00
+\w (00:02:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:35) Placing U5 / LD1117S50TR_LD1117S50TR_LD1117S / LD1117S50TR on Top.
+\i (00:02:38) pick grid 16950.87 16746.44
+\t (00:02:38) last pick:  17000.00  16700.00
+\w (00:02:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:38) Placing U6 / LD39050PU33R_LD39059PU33R_LD390 / LD39059PU33R on Top.
+\i (00:02:44) pick grid 17348.53 16612.02
+\t (00:02:44) last pick:  17300.00  16600.00
+\t (00:02:44) Placing Y1 / CRYSTAL_CRYS11MHZ_ABS25-32.768- / CRYS11MHZ on Top.
+\i (00:02:48) pick grid 16749.24 16872.46
+\t (00:02:48) last pick:  16700.00  16900.00
+\t (00:02:48) Placing Y2 / CRYSTAL_CRYS11MHZ_8MHZ(16PF) / CRYS11MHZ on Top.
+\i (00:02:54) pick grid 18048.63 16782.85
+\t (00:02:54) last pick:  18000.00  16800.00
+\i (00:03:07) setwindow form.plc_manual
+\i (00:03:07) FORM plc_manual done  
+\i (00:03:07) setwindow pcb
+\i (00:03:07) generaledit 
+\i (00:03:09) place manual 
+\i (00:03:12) setwindow form.plc_manual
+\i (00:03:12) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (00:03:12) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:03:12) FORM plc_manual tree  'Components by refdes' 
+\i (00:03:14) FORM plc_manual hide  
+\i (00:03:17) setwindow pcb
+\i (00:03:17) pick grid 16275.97 16376.79
+\t (00:03:17) last pick:  16300.00  16400.00
+\e (00:03:17) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:03:17) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\e (00:03:17) Cannot load symbol 'SFSWITCH'
+\i (00:05:12) place manual 
+\i (00:05:14) setwindow form.plc_manual
+\i (00:05:14) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (00:05:14) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:05:14) FORM plc_manual tree  'Components by refdes' 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) pick grid 16208.76 16553.21
+\t (00:05:16) last pick:  16200.00  16600.00
+\e (00:05:16) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:05:16) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\w (00:05:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:16) Placing SW1 / SW PUSHBUTTON-DPST_SFSWITCH_USE / SFSWITCH on Top.
+\i (00:05:18) pick grid 16458.00 16656.83
+\t (00:05:18) last pick:  16500.00  16700.00
+\t (00:05:18) Placing SW2 / SW PUSHBUTTON-DPST_SFSWITCH_TD- / SFSWITCH on Top.
+\i (00:05:27) pick grid 16410.39 17247.71
+\t (00:05:27) last pick:  16400.00  17200.00
+\i (00:05:30) setwindow form.plc_manual
+\i (00:05:30) FORM plc_manual done  
+\i (00:05:30) setwindow pcb
+\i (00:05:30) generaledit 
+\i (00:06:32) place manual 
+\i (00:06:34) setwindow form.plc_manual
+\i (00:06:34) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\t (00:06:34) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:06:34) FORM plc_manual tree  D2 'Components by refdes' 
+\i (00:06:38) FORM plc_manual advanced_settings  
+\i (00:06:43) FORM plc_manual placement_list  
+\i (00:06:45) setwindow pcb
+\i (00:06:45) pick grid 16656.83 16306.78
+\t (00:06:45) last pick:  16700.00  16300.00
+\e (00:06:45) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:06:45) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:07:00) setwindow form.plc_manual
+\i (00:07:00) FORM plc_manual cancel  
+\i (00:07:00) setwindow pcb
+\i (00:07:00) generaledit 
+\i (00:08:10) xhilite 
+\i (00:08:10) xname_flush 
+\i (00:08:10) done 
+\i (00:08:10) generaledit 
+\i (00:09:53) place manual 
+\i (00:09:55) setwindow form.plc_manual
+\i (00:09:55) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (00:09:55) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:09:55) FORM plc_manual tree  'Components by refdes' 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) pick grid 16401.99 16323.58
+\t (00:09:56) last pick:  16400.00  16300.00
+\e (00:09:56) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:09:56) Placing D2 / 1N6265/TO_DIO400_RED / DIO400 on Top.
+\i (00:10:00) setwindow form.plc_manual
+\i (00:10:00) FORM plc_manual tree  D2 'Components by refdes' 
+\i (00:10:02) FORM plc_manual tree  'Components by refdes' 
+\i (00:10:04) FORM plc_manual advanced_settings  
+\i (00:10:10) FORM plc_manual cancel  
+\i (00:10:10) setwindow pcb
+\i (00:10:10) generaledit 
+\i (00:10:19) exit 
+\e (00:10:19) Do you want to save the changes you made to SAFEBOX.brd?
+\i (00:10:20) fillin no 
+\t (00:10:21)     Journal end - Sun May 15 21:04:10 2016

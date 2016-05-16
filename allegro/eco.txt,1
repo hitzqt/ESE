@@ -1,0 +1,434 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C4.1           C5.2           C6.2           
+                                 C7.2           C8.2           C9.2           
+                                 C10.2          C11.1          C12.1          
+                                 C13.1          C14.1          C15.1          
+                                 C16.1          C18.1          C19.2          
+                                 C20.1          C21.1          C22.1          
+                                 C23.1          C24.1          C25.1          
+                                 C26.1          C27.1          D2.1           
+                                 J1.1           R3.1           R11.2          
+                                 R13.1          SW1.3          SW1.4          
+                                 SW2.3          SW2.4          U1.18          
+                                 U1.63          U2.5           U3.8           
+                                 U3.9           U3.10          U3.11          
+                                 U3.12          U3.13          U3.15          
+                                 U4.1           U4.5           U4.16          
+                                 U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3.3V         pins ADDED TO this new net
+                                 C1.2           C3.2           C4.2           
+                                 C13.2          C14.2          C15.2          
+                                 C16.2          C18.2          C26.2          
+                                 C27.2          L1.1           R6.2           
+                                 R8.2           R9.2           R10.2          
+                                 R12.1          U1.1           U1.19          
+                                 U1.32          U1.48          U1.64          
+                                 U2.1           U2.6           U3.1           
+                                 U3.4           U3.5           U3.16          
+                                 U4.2           U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AVDD         pins ADDED TO this new net
+                                 C17.2          L1.2           U1.13          
+                                 U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_FIELD SIGNAL pins ADDED TO this new net
+                                 C17.1          U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HTS221_DRDY  pins ADDED TO this new net
+                                 U1.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HTS221_DRDY_614 pins ADDED TO this new net
+                                 U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SCL      pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.61          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SCL_614  pins ADDED TO this new net
+                                 R9.1           U2.2           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SDA      pins ADDED TO this new net
+                                 U1.62          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SDA_614  pins ADDED TO this new net
+                                 R8.1           U2.4           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB0      pins ADDED TO this new net
+                                 U4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB1      pins ADDED TO this new net
+                                 U4.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB2      pins ADDED TO this new net
+                                 U4.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB3      pins ADDED TO this new net
+                                 U4.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB4      pins ADDED TO this new net
+                                 U1.58          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB5      pins ADDED TO this new net
+                                 U1.38          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB6      pins ADDED TO this new net
+                                 U1.41          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB7      pins ADDED TO this new net
+                                 U1.42          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB4_16243 pins ADDED TO this new net
+                                 U4.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB5_16243 pins ADDED TO this new net
+                                 U4.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB6_16243 pins ADDED TO this new net
+                                 U4.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DB7_16243 pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U4.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_EN       pins ADDED TO this new net
+                                 U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_EN_16243 pins ADDED TO this new net
+                                 U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_RS       pins ADDED TO this new net
+                                 U1.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_RS_16243 pins ADDED TO this new net
+                                 U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LSM6DS0_INT1 pins ADDED TO this new net
+                                 U1.57          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LSM6DS0_INT1_911 pins ADDED TO this new net
+                                 U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01290       pins ADDED TO this new net
+                                 C2.2           U3.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02359       pins ADDED TO this new net
+                                 C5.1           U1.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02461       pins ADDED TO this new net
+                                 C6.1           R1.2           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02585       pins ADDED TO this new net
+                                 C7.1           R2.2           Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02649       pins ADDED TO this new net
+                                 R2.1           U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03513       pins ADDED TO this new net
+                                 R1.1           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03642       pins ADDED TO this new net
+                                 C8.1           SW2.1          SW2.2          
+                                 U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03646       pins ADDED TO this new net
+                                 R3.2           U1.60          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N03947       pins ADDED TO this new net
+                                 C9.1           U1.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04064       pins ADDED TO this new net
+                                 C10.1          U1.47          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04106       pins ADDED TO this new net
+                                 C20.2          R5.2           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04228       pins ADDED TO this new net
+                                 R4.2           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04232       pins ADDED TO this new net
+                                 C11.2          R4.1           Y2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04333       pins ADDED TO this new net
+                                 C12.2          R5.1           Y2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10664       pins ADDED TO this new net
+                                 R6.1           R7.1           SW1.1          
+                                 SW1.2          U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11223       pins ADDED TO this new net
+                                 C19.1          R7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18449       pins ADDED TO this new net
+                                 R10.1          R11.1          U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20333       pins ADDED TO this new net
+                                 C22.2          R13.2          R14.1          
+                                 U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20432       pins ADDED TO this new net
+                                 C23.2          R14.2          U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20778       pins ADDED TO this new net
+                                 C24.2          C25.2          R15.2          
+                                 U6.1           U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206601      pins ADDED TO this new net
+                                 D2.3           R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1624314     pins ADDED TO this new net
+                                 R12.2          U4.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  VIN          pins ADDED TO this new net
+                                 C21.2          J1.2           U5.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N6265/TO_DIO400_RED
+ CON2_JUMPER2_BATTERIES
+ CRYSTAL_CRYS11MHZ_8MHZ(16PF)
+ CRYSTAL_CRYS11MHZ_ABS25-32.768-
+ C_CAPACITOR_100NF
+ C_CAPACITOR_10NF
+ C_CAPACITOR_10UF
+ C_CAPACITOR_1UF
+ C_CAPACITOR_1UF_X5R_0603
+ C_CAPACITOR_2.2UF
+ C_CAPACITOR_20PF
+ C_CAPACITOR_4.3PF
+ C_CAPACITOR_4.7UF
+ HTS221_HTS221_HTS221
+ LD1117S50TR_LD1117S50TR_LD1117S
+ LD39050PU33R_LD39059PU33R_LD390
+ LSM6DS0_LSM6DS0_LSM6DS0
+ L_INDUCTOR_10UH
+ MCU_LQFP64_LQFP64_MUC_LQFP64
+ R_RESISTANCE_100
+ R_RESISTANCE_120
+ R_RESISTANCE_330
+ R_RESISTANCE_10K
+ R_RESISTANCE_1K
+ R_RESISTANCE_2K
+ R_RESISTANCE_4.7K
+ SW PUSHBUTTON-DPST_SFSWITCH_TD-
+ SW PUSHBUTTON-DPST_SFSWITCH_USE
+ WH1602B2_WH1602B2_WH1602B2
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAPACITOR_100NF     
+ C2                  C_CAPACITOR_10NF      
+ C3                  C_CAPACITOR_10UF      
+ C4                  C_CAPACITOR_100NF     
+ C5                  C_CAPACITOR_4.7UF     
+ C6                  C_CAPACITOR_4.3PF     
+ C7                  C_CAPACITOR_4.3PF     
+ C8                  C_CAPACITOR_100NF     
+ C9                  C_CAPACITOR_2.2UF     
+ C10                 C_CAPACITOR_2.2UF     
+ C11                 C_CAPACITOR_20PF      
+ C12                 C_CAPACITOR_20PF      
+ C13                 C_CAPACITOR_100NF     
+ C14                 C_CAPACITOR_100NF     
+ C15                 C_CAPACITOR_100NF     
+ C16                 C_CAPACITOR_100NF     
+ C17                 C_CAPACITOR_100NF     
+ C18                 C_CAPACITOR_1UF_X5R_0603 
+ C19                 C_CAPACITOR_100NF     
+ C20                 C_CAPACITOR_20PF      
+ C21                 C_CAPACITOR_10UF      
+ C22                 C_CAPACITOR_10UF      
+ C23                 C_CAPACITOR_10UF      
+ C24                 C_CAPACITOR_1UF       
+ C25                 C_CAPACITOR_100NF     
+ C26                 C_CAPACITOR_1UF       
+ C27                 C_CAPACITOR_100NF     
+ D2                  1N6265/TO_DIO400_RED  
+ J1                  CON2_JUMPER2_BATTERIES 
+ L1                  L_INDUCTOR_10UH       
+ R1                  R_RESISTANCE_1K       
+ R2                  R_RESISTANCE_1K       
+ R3                  R_RESISTANCE_10K      
+ R4                  R_RESISTANCE_1K       
+ R5                  R_RESISTANCE_1K       
+ R6                  R_RESISTANCE_4.7K     
+ R7                  R_RESISTANCE_100      
+ R8                  R_RESISTANCE_1K       
+ R9                  R_RESISTANCE_1K       
+ R10                 R_RESISTANCE_1K       
+ R11                 R_RESISTANCE_1K       
+ R12                 R_RESISTANCE_330      
+ R13                 R_RESISTANCE_2K       
+ R14                 R_RESISTANCE_120      
+ R15                 R_RESISTANCE_1K       
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW1                 SW PUSHBUTTON-DPST_SFSWITCH_USE 
+ SW2                 SW PUSHBUTTON-DPST_SFSWITCH_TD- 
+ U1                  MCU_LQFP64_LQFP64_MUC_LQFP64 
+ U2                  HTS221_HTS221_HTS221  
+ U3                  LSM6DS0_LSM6DS0_LSM6DS0 
+ U4                  WH1602B2_WH1602B2_WH1602B2 
+ U5                  LD1117S50TR_LD1117S50TR_LD1117S 
+ U6                  LD39050PU33R_LD39059PU33R_LD390 
+ Y1                  CRYSTAL_CRYS11MHZ_ABS25-32.768- 
+ Y2                  CRYSTAL_CRYS11MHZ_8MHZ(16PF) 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:/CADENCE/WORKSPACE/allegro/SAFEBOX.brd                                    |
+|                                                    Sun May 15 20:53:37 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SW1.4                          PRIM_FILE      .\pstchip.dat
+ SW2.4                          PRIM_FILE      .\pstchip.dat
+ U1.12                          PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+ U4.1                           PRIM_FILE      .\pstchip.dat
+ U5.2                           PRIM_FILE      .\pstchip.dat
+ U6.4                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Y2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  315                                            |
+|------------------------------------------------------------------------------|

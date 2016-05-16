@@ -1,0 +1,19 @@
+{ Using PSTWRITER 16.6.0 d001May-15-2016 at 21:04:22 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.57" ignored for U1: SCHEMATIC1, 01MCU (2.70, 1.10). Connecting pin to net "LSM6DS0_INT1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "C5.1" ignored for C5: SCHEMATIC1, 01MCU (5.40, 2.20). Connecting pin to net "N02359".
+#3 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON-DPST_SFSWITCH_USER(BLUE)" is renamed to "SW PUSHBUTTON-DPST_SFSWITCH_USE".
+#4 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON-DPST_SFSWITCH_TD-0341[RESET/BLACK]" is renamed to "SW PUSHBUTTON-DPST_SFSWITCH_TD-".
+#5 WARNING(ORCAP-36006): Part Name "LD1117S50TR_LD1117S50TR_LD1117S50TR" is renamed to "LD1117S50TR_LD1117S50TR_LD1117S".
+#6 WARNING(ORCAP-36006): Part Name "LD39050PU33R_LD39059PU33R_LD39050PU33R" is renamed to "LD39050PU33R_LD39059PU33R_LD390".
+#7 WARNING(ORCAP-36006): Part Name "CRYSTAL_CRYS11MHZ_ABS25-32.768-6-T" is renamed to "CRYSTAL_CRYS11MHZ_ABS25-32.768-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\CADENCE\WORKSPACE\allegro/pstchip.dat
+
+Loading... D:\CADENCE\WORKSPACE\allegro/pstchip.dat
+
+Loading... D:\CADENCE\WORKSPACE\allegro/pstxprt.dat
+
+Loading... D:\CADENCE\WORKSPACE\allegro/pstxnet.dat
+packaging the design view...

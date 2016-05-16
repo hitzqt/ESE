@@ -1,0 +1,197 @@
+(ExpressProject "safeBox"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\safebox.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\SAFEBOX.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (1N6265/TO
+      (FullPartName "1N6265/TO.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (WH1602B2
+      (FullPartName "WH1602B2.Normal")
+      (LibraryName "D:\CADENCE\WORKSPACE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-DPST"
+      (FullPartName "SW PUSHBUTTON-DPST.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("GND_FIELD SIGNAL"
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\CONNECTR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 2"
+      (FullPartName "CONN PCB 2.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RECT 2"
+      (FullPartName "CONN RECT 2.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 1x2"
+      (FullPartName "CONN SOCKET 1x2.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JUMPER
+      (FullPartName "JUMPER.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JUMPER1
+      (FullPartName "JUMPER1.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LSM6DS0
+      (FullPartName "LSM6DS0.Normal")
+      (LibraryName "D:\CADENCE\WORKSPACE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (HTS221
+      (FullPartName "HTS221.Normal")
+      (LibraryName "D:\CADENCE\WORKSPACE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (MCU_LQFP64
+      (FullPartName "MCU_LQFP64.Normal")
+      (LibraryName "D:\CADENCE\WORKSPACE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (chip
+      (FullPartName "chip.Normal")
+      (LibraryName "D:\CADENCE\WORKSPACE\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "d:\cadence\workspace\safebox.dsn")
+      (Path "Design Resources" "d:\cadence\workspace\safebox.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "d:\cadence\workspace\library1.olb")
+      (Path "Outputs")
+      (Select "Design Resources" "d:\cadence\workspace\safebox.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 213"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1238 52 304")
+        (Scroll "122 374")
+        (Zoom "180")
+        (Occurrence "/"))
+      (Path "D:\CADENCE\WORKSPACE\SAFEBOX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 893 0 272")
+        (Scroll "0 70")
+        (Zoom "90")
+        (Occurrence "/"))
+      (Path "D:\CADENCE\WORKSPACE\SAFEBOX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02sensors"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 971 78 300")
+        (Scroll "208 176")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\CADENCE\WORKSPACE\SAFEBOX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03LCD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1212 26 278")
+        (Scroll "-84 190")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\CADENCE\WORKSPACE\SAFEBOX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "00POWER")))
+  (MPSSessionName "zhang")
+  (LastUsedLibraryBrowseDirectory
+     "D:\Cadence\SPB_16.6\tools\capture\library\pspice\advanls")
+  (ISPCBBASICLICENSE "false"))
